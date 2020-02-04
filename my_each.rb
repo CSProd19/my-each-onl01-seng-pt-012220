@@ -3,5 +3,4 @@ def my_each(array)
   while < array.length 
     yield array[i]
     i += 1 
-  end 
 end
