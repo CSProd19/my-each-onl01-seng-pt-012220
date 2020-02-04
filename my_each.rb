@@ -7,6 +7,6 @@ def my_each(array)
 end
 
 
-array = [2,4,6,8,10]
+# array = [2,4,6,8,10]
 
-my_find(array) {|n| n > 3 }
+# my_find(array) {|n| n > 3 }
