@@ -5,3 +5,8 @@ def my_each(array)
     i += 1 
   end 
 end
+
+
+array = [2,4,6,8,10]
+
+my_find(array) {|n| n > 3 }
